@@ -113,6 +113,6 @@ This project demonstrates how machine learning and computer vision can be used t
 
 ---
 
-## 👤 Author
+## 👤 Author - UNKNOWN MEH
 
 Developed as part of a learning project to explore machine learning, OpenCV, and real-time detection systems.
